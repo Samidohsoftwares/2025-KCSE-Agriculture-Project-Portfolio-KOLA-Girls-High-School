@@ -335,3 +335,14 @@
   background-color: #fdfdfd;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+
+.title2{
+  color: #f01080;
+  font-family: "Tagesschrift", system-ui;
+}
+
+.title1{
+  color: #220bf0;
+  font-family: "Edu QLD Beginner", cursive;
+  font-size: 12px;
+}
